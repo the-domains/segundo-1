@@ -1,4 +1,4 @@
-name: Segundo 1
+name: Segundo Uno
 favicon: null
 layout_spectrum: 0.94112
 typography_spectrum: 0.16058
@@ -22,8 +22,8 @@ color:
     - '#6f5e54'
     - '#a7846e'
     - '#969fbc'
-  brandStrength: 0.875
-  lightness: 0.375
+  brandStrength: 0.6875
+  lightness: 0.6875
   saturation: 0.3125
-  rhythmicContrast: 0.75
+  rhythmicContrast: 1
 purpose: []
