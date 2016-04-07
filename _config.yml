@@ -1,7 +1,7 @@
 name: Segundo 1
 favicon: null
-layout_spectrum: 0.9142739053349942
-typography_spectrum: 0.3156882058829069
+layout_spectrum: 0.94112
+typography_spectrum: 0.16058
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.8506610027980059
-  lightness: 0.25176642392762005
-  saturation: 0.3723615847993642
-  rhythmicContrast: 0.7241984547581524
+    - '#050304'
+    - '#ffffff'
+    - '#6f5e54'
+    - '#a7846e'
+    - '#969fbc'
+  brandStrength: 0.875
+  lightness: 0.375
+  saturation: 0.3125
+  rhythmicContrast: 0.75
 purpose: []
