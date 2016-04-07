@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Segundo 1]]></title>
         <description><![CDATA[Segundo 1]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/segundo-1/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Apr 2016 15:38:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 07 Apr 2016 15:43:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/segundo-1/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Primer Toque]]></title>
-            <description><![CDATA[<article><h1>Primer Toque</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ade6f07b-33b9-417e-bf2f-6659aab9bd84.jpg"></article>]]></description>
-            <link>undefinedprimer-toque/index.html</link>
+            <description><![CDATA[<article><h1>Primer Toque</h1><p>Hola a todos! El sábado pasado tuvimos nuestro primer toque y fue genial! la pasamos muy bueno con nuestros parceros, gracias a todos nuestros amigos, amigas, novias y familiares por su apoyo nos vemos el 7 de Mayo !</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ade6f07b-33b9-417e-bf2f-6659aab9bd84.jpg"></article>]]></description>
+            <link>https://thegrid.ai/segundo-1/primer-toque/index.html</link>
             <guid isPermaLink="false">16514bac-3d3f-4ce6-ad2d-09aa5ed1711d</guid>
-            <pubDate>Thu, 07 Apr 2016 15:38:03 GMT</pubDate>
+            <pubDate>Thu, 07 Apr 2016 15:43:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
