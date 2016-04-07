@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: ''
-datePublished: '2016-04-07T15:43:17.155Z'
-dateModified: '2016-04-07T15:42:15.509Z'
+description: 'Hola a todos! El sábado pasado tuvimos nuestro primer toque y fue genial! la pasamos muy bueno con nuestros parceros, gracias a todos nuestros amigos, amigas, novias y familiares por su apoyo nos vemos el 7 de Mayo !'
+datePublished: '2016-04-07T15:48:02.166Z'
+dateModified: '2016-04-07T15:47:44.228Z'
 title: Primer Toque
 author: []
 sourcePath: _posts/2016-04-07-primer-toque.md
